@@ -215,7 +215,7 @@ The repository includes trained model files in the `outputs/` directory. You do 
 
 ## 👥 Project Contributors
 
-This project was developed collaboratively, with separate contributions to traditional machine learning, deep learning, and application integration.
+This project was developed collaboratively, with Nishant Nikhil to traditional machine learning, deep learning, and application integration.
 
 ## 📄 License
 
